@@ -2,6 +2,8 @@
 
 This is a SF2 format sound bank that features every type of synth patches. Unlike 90RV or LightSolaris, this will be 100% synth patches instead. Toy Keyboard-style patches may be included as well.
 
+[DOWNLOAD](https://archive.wohlsoft.ru/_User/Yingchun%20Soul/Sample%20Libraries/Neo%20Retro%20Station.sf2)
+
 Unless stated, every synth made by me, via either ZynAddSubFX, Dexed, or Surge.
 
 Wavetables from **my handdrawn** and **AKWF** Free Waveforms.
