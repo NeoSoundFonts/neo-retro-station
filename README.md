@@ -5,7 +5,7 @@ This is a SF2 format sound bank that features every type of synth patches. Unlik
 [Download](https://archive.wohlsoft.ru/_User/Yingchun%20Soul/Sample%20Libraries/Neo%20Retro%20Station.sf2)<br>
 [Musical Artifacts Mirror](https://musical-artifacts.com/artifacts/4585)
 
-Unless stated, every synth made by me, via either ZynAddSubFX, Dexed, Surge, or anything free synthes.
+Unless stated, every synth made by me, via either ZynAddSubFX, Dexed, Surge, or anything synthes that free for commercial use.
 
 Wavetables from **my handdrawn** and **AKWF** Free Waveforms (Instead of using k1v).
 
