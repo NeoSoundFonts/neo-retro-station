@@ -1,0 +1,1 @@
+Minimal version of ZynAddSubFX: 2.2.0

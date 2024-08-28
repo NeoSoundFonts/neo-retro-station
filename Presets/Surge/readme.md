@@ -1,0 +1,1 @@
+Minimal version of Surge: 1.6.6
