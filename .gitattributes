@@ -1,0 +1,7 @@
+* text=auto
+
+*.sf2 binary
+*.flac binary
+*.syx binary
+*.fxp binary
+*.xiz binary
